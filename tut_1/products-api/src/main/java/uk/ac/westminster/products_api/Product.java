@@ -23,3 +23,7 @@ public class Product {
 
     public Product() {}
 }
+
+//this is the
+//kind of bug that produces no error
+//message
